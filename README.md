@@ -1,6 +1,8 @@
+[![DOI](https://zenodo.org/badge/987335798.svg)](https://doi.org/10.5281/zenodo.15483952)
+
 W. Balmer (May 20th, 2025)
 
-This notebook should allow the user to reproduce the data reduction, starlight subtraction, contrast calibration, and source extraction for JWST GO 3337 (DBG & Balmer et al. 2025, ApJL)
+This notebook should allow the user to reproduce the data reduction, starlight subtraction, contrast calibration, and source extraction for JWST GO 3337 (DBG & Balmer et al. 2025, ApJL). The notebook itself is citeable as a DOI: 10.5281/zenodo.15483952
 
 To run this notebook, you'll need to create a new conda environment and install stpsf, pyklip, spaceklip, etc and then open this notebook with a ipykernel based in that environment with the correct environment variables.
 
